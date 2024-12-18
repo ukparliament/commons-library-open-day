@@ -1,4 +1,4 @@
-# House of Commons Library Open Day 2025
+# Open Day 2025
 
 Wednesday, 19th February 2025
 
