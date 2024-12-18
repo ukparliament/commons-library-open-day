@@ -37,7 +37,20 @@ Attlee Suite, Portcullis House, Westminster
 	</tbody>
 </table>
 		
-## Stands and exhibition
+## Stands
 
 MacMillan Room, Portcullis House, Westminster
+
+* [IDMS stand](idms)
+
+* Research stand
+
+
+## Exhibition
+
+MacMillan Room, Portcullis House, Westminster
+
+Description
+
+
 
