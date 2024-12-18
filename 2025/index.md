@@ -9,20 +9,20 @@ Attlee Suite, Portcullis House, Westminster
 <table>
 	<tbody>
 		<tr>
-			<td>
+			<td valign="top">
 				<p>09:45 - 11:00</p>
 			</td>
 			<td>
-				<h3>Talk One</h3>
+				<h3>Talk One with a longer title</h3>
 				<p>Person one</p>
 				<h3>Talk Two</h3>
 				<p>Person two and three</p>
-				<h3>Talk Three</h3>
+				<h3>Talk Three with a particularly long title</h3>
 				<p>Person four</p>
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td valign="top">
 				<p>13:15 - 14:00</p>
 			</td>
 			<td>
