@@ -30,7 +30,7 @@ Attlee Suite, Portcullis House, Westminster
 				<p>Person five</p>
 				<h3>Talk Five</h3>
 				<p>Person six and seven</p>
-				<h3>Talk Six</h3>
+				<h3>Talk Six with an absolutely massive title that keeps going on and on</h3>
 				<p>Person eight</p>
 			</td>
 		</tr>
