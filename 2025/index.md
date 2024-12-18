@@ -2,13 +2,11 @@
 
 An open day for librarians and information officers.
 
-Wednesday, 19th Februrary 2020
-
-Portcullis House, Westminster
+Wednesday, 19th February 2025
 
 ## Talks
 
-Attlee Suite
+Attlee Suite, Portcullis House, Westminster
 
 <table>
 	<tbody>
@@ -41,10 +39,7 @@ Attlee Suite
 	</tbody>
 </table>
 		
-
-
-
-### 10:30 - S
-
 ## Stands
+
+MacMillan Room, Portcullis House, Westminster
 
