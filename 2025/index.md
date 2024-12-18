@@ -1,6 +1,4 @@
-# House of Commons Library open day 2025
-
-An open day for librarians and information officers.
+# House of Commons Library Open Day 2025
 
 Wednesday, 19th February 2025
 
