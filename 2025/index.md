@@ -5,7 +5,7 @@ Portcullis House, Westminster
 
 ## Attlee Suite<br>9.45am to 11.00am
 
-### Welcome and <br>overview of the day
+### Welcome and overview of the day
 **Claire Sewell** Head of Research Information Service<br>
 **Linda Coombs** Head of Members’ Library Services
 
@@ -15,7 +15,7 @@ Portcullis House, Westminster
 ### An introduction to <br>the House of Commons Library
 **Martin Reid** Director of Library Services
 
-### The work of <br>Research
+### The work of Research
 **Anna Dickson** Director of Research
 
 ### Misinformation and <br>The Good Information Toolkit
@@ -28,24 +28,24 @@ Portcullis House, Westminster
 ### The induction of MPs
 **Hannah Roberts**
 
-### Single Subject View<br> Subject Specialist Finder
+### Single Subject View and<br> Subject Specialist Finder
 **Susannah Foulis**
 
-### From parchment to podcasts: <br>collecting, safeguarding and providing <br>ready access to the records of Parliament
+### From parchment to podcasts: <br>collecting, safeguarding and providing ready access to the records of Parliament
 **Adrian Brown** Director of Knowledge and Information
 
 ---
 		
 ## MacMillan Room <br>exhibition and stands
 
-### [Indexing and Data Management Section](idms)
+#### [Indexing and Data Management Section](idms)
 
-### MLS / Research Services
+#### Members Library Services and Research Services
 
-### Parliamentary Office of Science and Technology
+#### Parliamentary Office of Science and Technology
 
-### House of Lords Library
+#### House of Lords Library
 
-### Select Committee
+#### Select Committee
 
 
