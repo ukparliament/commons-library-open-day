@@ -6,7 +6,7 @@ Portcullis House, Westminster
 ## Attlee Suite<br>9.45am to 11.00am
 
 ### Welcome and <br>overview of the day
-**Claire Sewell** Head of Research Information Service
+**Claire Sewell** Head of Research Information Service<br>
 **Linda Coombs** Head of Members’ Library Services
 
 ### Opening remarks
