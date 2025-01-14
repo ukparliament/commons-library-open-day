@@ -64,15 +64,8 @@ Attlee Suite, Portcullis House, Westminster
 	</tbody>
 </table>
 
-## Exhibition
-
-MacMillan Room, Portcullis House, Westminster
-
-Description to follow
-
-
 		
-## Stands
+## Exhibition and stands
 
 MacMillan Room, Portcullis House, Westminster
 
