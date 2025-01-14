@@ -9,18 +9,16 @@ Welcome and overview of the day
 * Linda Coombs, Head of Members’ Library Services
 
 Opening remarks
+* Grant Hill-Cawthorne, Managing Director (R&I)
 
-Grant Hill-Cawthorne, Managing Director (R&I)
 An introduction to the House of Commons Library
-
-Martin Reid, Director of Library Services
+* Martin Reid, Director of Library Services
 
 The work of Research
-Anna Dickson, Director of Research
+* Anna Dickson, Director of Research
 
 Misinformation & the Good Information Toolkit
-
-Anne-Lise Harding, Strategic Training Lead
+* Anne-Lise Harding, Strategic Training Lead
 
 <!--
 <table>
