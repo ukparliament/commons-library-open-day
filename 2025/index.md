@@ -2,7 +2,7 @@
 
 Wednesday, 19th February 2025. Portcullis House, Westminster.
 
-## Attlee Suite, 9.45am &rarr; 11.20am
+## Attlee Suite, 9.45am &rarr; 11.00am
 
 ### Welcome and overview of the day
 Claire Sewell, Head of Research Information Service
@@ -19,6 +19,9 @@ Anna Dickson, Director of Research
 
 ### Misinformation & the Good Information Toolkit
 Anne-Lise Harding, Strategic Training Lead
+
+
+## Attlee Suite, 11.20am &rarr; 12.30pm
 
 <!--
 <table>
