@@ -1,11 +1,28 @@
 # Open Day 2025
 
-Wednesday, 19th February 2025
+Wednesday, 19th February 2025. Portcullis House, Westminster.
 
-## Talks
+## Attlee Suite
 
-Attlee Suite, Portcullis House, Westminster
+Welcome and overview of the day
+* Claire Sewell, Head of Research Information Service
+* Linda Coombs, Head of Members’ Library Services
 
+Opening remarks
+
+Grant Hill-Cawthorne, Managing Director (R&I)
+An introduction to the House of Commons Library
+
+Martin Reid, Director of Library Services
+
+The work of Research
+Anna Dickson, Director of Research
+
+Misinformation & the Good Information Toolkit
+
+Anne-Lise Harding, Strategic Training Lead
+
+<!--
 <table>
 	<tbody>
 		<tr>
@@ -63,11 +80,11 @@ Attlee Suite, Portcullis House, Westminster
 		</tr>
 	</tbody>
 </table>
-
+-->
 		
-## Exhibition and stands
+## MacMillan Room
 
-MacMillan Room, Portcullis House, Westminster
+Exhibition and stands
 
 * [Indexing and Data Management Section](idms)
 
