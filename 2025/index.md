@@ -4,21 +4,21 @@ Wednesday, 19th February 2025. Portcullis House, Westminster.
 
 ## Attlee Suite, 9.45am &rarr; 11.20am
 
-Welcome and overview of the day
-* Claire Sewell, Head of Research Information Service
-* Linda Coombs, Head of Members’ Library Services
+### Welcome and overview of the day
+Claire Sewell, Head of Research Information Service
+Linda Coombs, Head of Members’ Library Services
 
-Opening remarks
-* Grant Hill-Cawthorne, Managing Director (R&I)
+### Opening remarks
+Grant Hill-Cawthorne, Managing Director, Research and Information
 
-An introduction to the House of Commons Library
-* Martin Reid, Director of Library Services
+### An introduction to the House of Commons Library
+Martin Reid, Director of Library Services
 
-The work of Research
-* Anna Dickson, Director of Research
+### The work of Research
+Anna Dickson, Director of Research
 
-Misinformation & the Good Information Toolkit
-* Anne-Lise Harding, Strategic Training Lead
+### Misinformation & the Good Information Toolkit
+Anne-Lise Harding, Strategic Training Lead
 
 <!--
 <table>
