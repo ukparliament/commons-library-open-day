@@ -5,7 +5,8 @@ Wednesday, 19th February 2025. Portcullis House, Westminster.
 ## Attlee Suite, 9.45am &rarr; 11.00am
 
 ### Welcome and overview of the day
-Claire Sewell, Head of Research Information Service
+*Claire Sewell*
+Head of Research Information Service
 Linda Coombs, Head of Members’ Library Services
 
 ### Opening remarks
