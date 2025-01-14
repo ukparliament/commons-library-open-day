@@ -42,15 +42,27 @@ Attlee Suite, Portcullis House, Westminster
 		</tr>
 		<tr>
 			<td valign="top">
-				<p>13:15 - 14:00</p>
+				<p>11:20 - 12:30</p>
 			</td>
 			<td>
-				<h3>Talk Four</h3>
-				<p>Person five</p>
-				<h3>Talk Five</h3>
-				<p>Person six and seven</p>
-				<h3>Talk Six with an absolutely massive title that keeps going on and on</h3>
-				<p>Person eight</p>
+				<h3>The induction of MPs</h3>
+				<ul>
+					<li>Hannah Roberts</li>
+				</ul>
+			</td>
+
+			<td>
+				<h3>Single Subject View / Subject Specialist Finder</h3>
+				<ul>
+					<li>Susannah Foulis</li>
+				</ul>
+			</td>
+
+			<td>
+				<h3>From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament</h3>
+				<ul>
+					<li>Adrian Brown, Director of Knowledge and Information</li>
+				</ul>
 			</td>
 		</tr>
 	</tbody>
