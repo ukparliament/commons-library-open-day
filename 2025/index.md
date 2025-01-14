@@ -2,7 +2,7 @@
 
 Wednesday, 19th February 2025. Portcullis House, Westminster.
 
-## Attlee Suite
+## Attlee Suite, 9.45am &rarr; 11.20am
 
 Welcome and overview of the day
 * Claire Sewell, Head of Research Information Service
