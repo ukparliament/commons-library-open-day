@@ -49,16 +49,12 @@ Attlee Suite, Portcullis House, Westminster
 				<ul>
 					<li>Hannah Roberts</li>
 				</ul>
-			</td>
-
-			<td>
+				
 				<h3>Single Subject View / Subject Specialist Finder</h3>
 				<ul>
 					<li>Susannah Foulis</li>
 				</ul>
-			</td>
-
-			<td>
+				
 				<h3>From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament</h3>
 				<ul>
 					<li>Adrian Brown, Director of Knowledge and Information</li>
