@@ -67,21 +67,27 @@ Attlee Suite, Portcullis House, Westminster
 		</tr>
 	</tbody>
 </table>
-		
-## Stands
-
-MacMillan Room, Portcullis House, Westminster
-
-* [IDMS stand](idms)
-
-* Research stand
-
 
 ## Exhibition
 
 MacMillan Room, Portcullis House, Westminster
 
-Description
+Description to follow
 
+
+		
+## Stands
+
+MacMillan Room, Portcullis House, Westminster
+
+* [Indexing and Data Management Section](idms)
+
+* MLS / Research Services
+
+* Parliamentary Office of Science and Technology (POST)
+
+* House of Lords Library
+
+* Select Committee
 
 
