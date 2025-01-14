@@ -13,12 +13,31 @@ Attlee Suite, Portcullis House, Westminster
 				<p>09:45 - 11:00</p>
 			</td>
 			<td>
-				<h3>Talk One with a longer title</h3>
-				<p>Person one</p>
-				<h3>Talk Two</h3>
-				<p>Person two and three</p>
-				<h3>Talk Three with a particularly long title</h3>
-				<p>Person four</p>
+				<h3>Welcome and overview of the day</h3>
+				<ul>
+					<li>Claire Sewell, Head of Research Information Service</li>
+					<li>Linda Coombs, Head of Members’ Library Services</li>
+				</ul>
+				
+				<h3>Opening remarks</h3>
+				<ul>
+					<li>Grant Hill-Cawthorne, Managing Director (R&I)</li>
+				</ul>
+				
+				<h3>An introduction to the House of Commons Library</h3>
+				<ul>
+					<li>Martin Reid, Director of Library Services</li>
+				</ul>
+				
+				<h3>The work of Research</h3>
+				<ul>
+					<li>Anna Dickson, Director of Research</li>
+				</ul>
+				
+				<h3>Misinformation & the Good Information Toolkit</h3>
+				<ul>
+					<li>Anne-Lise Harding, Strategic Training Lead</li>
+				</ul>
 			</td>
 		</tr>
 		<tr>
