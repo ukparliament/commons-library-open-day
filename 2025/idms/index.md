@@ -1,3 +1,37 @@
-# Stand title
+# Indexing and Data Management Section
 
-There will be a brief description of the subject of the stand, possibly with a poster to download and the names of the people manning the stands. Links may be present.
+## What do we do?  
+
+### Subject indexing 
+We subject index most of parliamentary business, in both Houses, supporting researchers and others find what they need.
+
+### Taxonomy services
+We maintain a controlled vocabulary to cover the business of both Houses. The vocabulary is emergent from parliamentary business. We consult with colleagues across Parliament, making best use of their procedural and subject matter expertise. 
+
+### Procedural data management 
+We have domain expertise. The team understands parliamentary procedure across both Houses. We adapt our information management as business practice and procedure changes. We work with procedural colleagues in the Lords and the Commons. 
+
+### Member data management
+We look after the central database for Members of Parliament, keeping it up to date with new starters and leavers, party affiliation changes and changes to the machinery of government. We collaborate with the History of Parliament Trust 
+
+### Data integration and data cleaning 
+We tie together information from disparate procedural systems. We make links in data that reflect how parliamentary business actually happened. 
+
+### Data modelling 
+We document parliamentary procedures. We work with internal and external domain experts and colleagues in the Digital Service to design data models that reflect the complexities of Parliament. 
+
+## Find our work: 
+We manage data for the following services:
+Parliamentary Search  
+UK Parliament thesaurus  
+Treaty tracker   
+Statutory Instrument Service  
+Written questions  
+Members of the House of Commons
+Egg timer (Parliamentary time and scrutiny periods) 
+
+And with the History of Parliament Trust:
+Members of Parliament after 1832  
+Peerages  
+
+We publish Weeknotes  and Parliamentary domain models.  
