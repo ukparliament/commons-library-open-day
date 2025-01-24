@@ -20,18 +20,20 @@ We tie together information from disparate procedural systems. We make links in 
 ### Data modelling 
 We document parliamentary procedures. We work with internal and external domain experts and colleagues in the Digital Service to design data models that reflect the complexities of Parliament. 
 
-## Find our work: 
+## Find our work
 We manage data for the following services:
-Parliamentary Search  
-UK Parliament thesaurus  
-Treaty tracker   
-Statutory Instrument Service  
-Written questions  
-Members of the House of Commons
-Egg timer (Parliamentary time and scrutiny periods) 
+
+[Parliamentary Search]  
+[UK Parliament thesaurus]  
+[Treaty tracker]   
+[Statutory instrument service]  
+[Written questions]  
+[Members of the House of Commons]
+[Egg timer (Parliamentary time and scrutiny periods)] 
 
 And with the History of Parliament Trust:
-Members of Parliament after 1832  
-Peerages  
 
-We publish Weeknotes  and Parliamentary domain models.  
+[Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/)  
+[Peerages](https://peerages.historyofparliamentonline.org/)  
+
+We publish [Weeknotes](https://ukparliament.github.io/ontologies/meta/weeknotes/) and [Parliamentary domain models](https://ukparliament.github.io/ontologies/).  
