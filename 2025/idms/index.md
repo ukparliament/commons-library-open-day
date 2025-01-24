@@ -25,19 +25,29 @@ We document parliamentary procedures. We work with internal and external domain 
 ## Find our work
 We publish our domain models at [UK Parliament Ontologies](https://ukparliament.github.io/ontologies/). We manage data for the following services:
 
-#### [Parliamentary Search](https://search-material.parliament.uk/)  
+#### [Search Parliamentary Material](https://search-material.parliament.uk/)  
+A service in which people can search for parliamentary business and research briefings, from both Houses, indexed by IDMS, in one place. 
+
+#### [Parliamentary Search](https://parliamentary-search-265cced0397e.herokuapp.com/)
+Currently in developement, a replacement for Search Parliamentary Material.
 
 #### [UK Parliament thesaurus](https://lda.data.parliament.uk/terms/)  
+The thesaurus supports indexing by providing information about the terms, and the terms around them.  We include terms relating to any subject discussed by Parliament, along with many procedural terms.  
 
 #### [Treaty tracker](https://treaties.parliament.uk/)   
+Treaties are international agreements between states. Find and follow the progress of treaties laid before Parliament.
 
 #### [Statutory instrument service](https://statutoryinstruments.parliament.uk/)  
+Statutory Instruments (SIs) are the most common form of secondary legislation. Find and follow the progress of SIs laid before Parliament.
 
 #### [Written questions](https://questions-statements.parliament.uk/)  
+Written questions allow MPs and Members of the House of Lords to ask for information on the work, policy and activities of Government departments, related bodies, and the administration of Parliament.
 
 #### [Members of the House of Commons](https://members.parliament.uk/members/Commons)
+Information on current and former Members of the House of Commons.
 
-#### [Egg timer (Parliamentary time and scrutiny periods)](https://api.parliament.uk/egg-timer/meta)
+#### [Egg timer](https://api.parliament.uk/egg-timer/meta)
+For the calculation of scrutiny periods - that is, the period of time available to ecah House to approve or annul SIs and treaties before Parliament. 
 
 We also work with the [History of Parliament Trust](https://www.historyofparliamentonline.org/) on [Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/)
 and on [Peerages](https://peerages.historyofparliamentonline.org/). 
