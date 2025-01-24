@@ -2,8 +2,10 @@
 
 ## What do we do?  
 
+We publish [Weeknotes](https://ukparliament.github.io/ontologies/meta/weeknotes/) on an irregular basis. Our work includes:
+
 ### Subject indexing 
-We subject index most of parliamentary business, in both Houses, supporting researchers and others find what they need.
+We subject index most of parliamentary business, in both Houses, supporting researchers and others to find what they need.
 
 ### Taxonomy services
 We maintain a controlled vocabulary to cover the business of both Houses. The vocabulary is emergent from parliamentary business. We consult with colleagues across Parliament, making best use of their procedural and subject matter expertise. 
@@ -21,7 +23,7 @@ We tie together information from disparate procedural systems. We make links in 
 We document parliamentary procedures. We work with internal and external domain experts and colleagues in the Digital Service to design data models that reflect the complexities of Parliament. 
 
 ## Find our work
-We manage data for the following services:
+We publish our domaina models at [Parliamentary domain models](https://ukparliament.github.io/ontologies/). We manage data for the following services:
 
 [Parliamentary Search](https://search-material.parliament.uk/)  
 [UK Parliament thesaurus](https://lda.data.parliament.uk/terms/)  
@@ -31,9 +33,8 @@ We manage data for the following services:
 [Members of the House of Commons](https://members.parliament.uk/members/Commons)
 [Egg timer (Parliamentary time and scrutiny periods)](https://api.parliament.uk/egg-timer/meta)
 
-And with the History of Parliament Trust:
+And we work with the [History of Parliament Trust](https://www.historyofparliamentonline.org/) on two of their services:
 
 [Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/)
 [Peerages](https://peerages.historyofparliamentonline.org/)  
 
-We publish [Weeknotes](https://ukparliament.github.io/ontologies/meta/weeknotes/) and [Parliamentary domain models](https://ukparliament.github.io/ontologies/).  
