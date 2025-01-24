@@ -23,17 +23,17 @@ We document parliamentary procedures. We work with internal and external domain 
 ## Find our work
 We manage data for the following services:
 
-[Parliamentary Search]  
-[UK Parliament thesaurus]  
-[Treaty tracker]   
-[Statutory instrument service]  
-[Written questions]  
-[Members of the House of Commons]
-[Egg timer (Parliamentary time and scrutiny periods)] 
+[Parliamentary Search](https://search-material.parliament.uk/)  
+[UK Parliament thesaurus](https://lda.data.parliament.uk/terms/)  
+[Treaty tracker](https://treaties.parliament.uk/)   
+[Statutory instrument service](https://statutoryinstruments.parliament.uk/)  
+[Written questions](https://questions-statements.parliament.uk/)  
+[Members of the House of Commons](https://members.parliament.uk/members/Commons)
+[Egg timer (Parliamentary time and scrutiny periods)](https://api.parliament.uk/egg-timer/meta)
 
 And with the History of Parliament Trust:
 
-[Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/)  
+[Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/)
 [Peerages](https://peerages.historyofparliamentonline.org/)  
 
 We publish [Weeknotes](https://ukparliament.github.io/ontologies/meta/weeknotes/) and [Parliamentary domain models](https://ukparliament.github.io/ontologies/).  
