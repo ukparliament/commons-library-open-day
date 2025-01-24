@@ -2,7 +2,7 @@
 
 ## What do we do?  
 
-We publish [weeknotes](https://ukparliament.github.io/ontologies/meta/weeknotes/) on an irregular basis. Our work includes:
+Ou work includes:
 
 ### Subject indexing 
 We subject index parliamentary business of the Commons and the Lords, supporting researchers and others to find what they need.
@@ -21,6 +21,8 @@ We tie together information from disparate procedural systems. We make links in 
 
 ### Data modelling 
 We document parliamentary procedures. We work with internal and external domain experts and colleagues in the Digital Service to design data models that reflect the complexities of Parliament. 
+
+We publish [weeknotes](https://ukparliament.github.io/ontologies/meta/weeknotes/) on an irregular basis.
 
 ## Find our work
 We publish our domain models at [UK Parliament Ontologies](https://ukparliament.github.io/ontologies/). We manage data for the following services:
