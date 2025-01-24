@@ -47,7 +47,7 @@ Written questions allow MPs and Members of the House of Lords to ask for informa
 Information on current and former Members of the House of Commons.
 
 #### [Egg timer](https://api.parliament.uk/egg-timer/meta)
-For the calculation of scrutiny periods - that is, the period of time available to ecah House to approve or annul SIs and treaties before Parliament. 
+For the calculation of scrutiny periods - that is, the period of time available to each House to approve or annul SIs and treaties before Parliament. 
 
 We also work with the [History of Parliament Trust](https://www.historyofparliamentonline.org/) on [Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/)
 and on [Peerages](https://peerages.historyofparliamentonline.org/). 
