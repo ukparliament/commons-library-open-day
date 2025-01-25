@@ -50,7 +50,7 @@ Information on current and former Members of the House of Commons.
 A website by the House of Commons Library providing election results data for the UK House of Commons.
 
 #### [Parliament: Facts and figures](https://commonslibrary.parliament.uk/tag/parliament-facts-and-figures/)
-The Parliament: Facts and figures series covers topics including elections, government, legislation, Members and parliamentary business.
+The 'Parliament: Facts and figures' series covers topics including elections, government, legislation, Members and parliamentary business.
 
 #### [Egg timer](https://api.parliament.uk/egg-timer/meta)
 For the calculation of scrutiny periods - that is, the period of time available to each House to approve or annul SIs and treaties before Parliament. 
