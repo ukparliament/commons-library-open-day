@@ -2,8 +2,6 @@
 
 ## What do we do?  
 
-Ou work includes:
-
 ### Subject indexing 
 We subject index parliamentary business of the Commons and the Lords, supporting researchers and others to find what they need.
 
