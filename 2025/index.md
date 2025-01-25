@@ -26,13 +26,13 @@ Portcullis House, Westminster
 ## Attlee Suite<br>11.20am to 12.30pm
 
 ### The induction of MPs
-**Hannah Roberts**
+**Hannah Roberts** Head of Customer Service and Engagement, Research and Information Communications and Engagement
 
 ### Single Subject View and Subject Specialist Finder
-**Susannah Foulis**
+**Susannah Foulis** Taxonomy Services Lead, Indexing and Data Management Section
 
 ### From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament
-**Adrian Brown** Director of Knowledge and Information
+**Adrian Brown** Director of Knowledge and Information, House of Lords
 
 ---
 		
