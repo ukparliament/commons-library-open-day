@@ -10,7 +10,7 @@ Portcullis House, Westminster
 **Linda Coombs** Head of Members’ Library Services
 
 ### Opening remarks
-**Grant Hill-Cawthorne** Managing Director, Research and Information
+**Grant Hill-Cawthorne** Managing Director of Research & Information
 
 ### An introduction to the House of Commons Library
 **Martin Reid** Director of Library Services
@@ -26,10 +26,10 @@ Portcullis House, Westminster
 ## Attlee Suite<br>11.20am to 12.30pm
 
 ### The induction of MPs
-**Hannah Roberts** Head of Customer Service and Engagement, Research and Information Communications and Engagement
+**Hannah Roberts** Head of Customer Service and Engagement
 
 ### Single Subject View and Subject Specialist Finder
-**Susannah Foulis** Taxonomy Services Lead, Indexing and Data Management Section
+**Susannah Foulis** Taxonomy Services Lead
 
 ### From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament
 **Adrian Brown** Director of Knowledge and Information, House of Lords
