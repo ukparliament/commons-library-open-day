@@ -12,13 +12,13 @@ Portcullis House, Westminster
 ### Opening remarks
 **Grant Hill-Cawthorne** Managing Director, Research and Information
 
-### An introduction to <br>the House of Commons Library
+### An introduction to the House of Commons Library
 **Martin Reid** Director of Library Services
 
 ### The work of Research
 **Anna Dickson** Director of Research
 
-### Misinformation and <br>The Good Information Toolkit
+### Misinformation and The Good Information Toolkit
 **Anne-Lise Harding** Strategic Training Lead
 
 ---
@@ -28,7 +28,7 @@ Portcullis House, Westminster
 ### The induction of MPs
 **Hannah Roberts**
 
-### Single Subject View and<br> Subject Specialist Finder
+### Single Subject View and Subject Specialist Finder
 **Susannah Foulis**
 
 ### From parchment to podcasts: <br>collecting, safeguarding and providing ready access to the records of Parliament
