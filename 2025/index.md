@@ -31,7 +31,7 @@ Portcullis House, Westminster
 ### Single Subject View and Subject Specialist Finder
 **Susannah Foulis**
 
-### From parchment to podcasts: <br>collecting, safeguarding and providing ready access to the records of Parliament
+### From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament
 **Adrian Brown** Director of Knowledge and Information
 
 ---
