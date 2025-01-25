@@ -29,7 +29,7 @@ We publish our domain models at [UK Parliament Ontologies](https://ukparliament.
 A service in which people can search for parliamentary business and research briefings, from both Houses, indexed by IDMS, in one place. 
 
 #### [Parliamentary Search](https://parliamentary-search-265cced0397e.herokuapp.com/)
-Currently in developement, a replacement for Search Parliamentary Material.
+Currently in development, a replacement for Search Parliamentary Material.
 
 #### [UK Parliament thesaurus](https://lda.data.parliament.uk/terms/)  
 The thesaurus supports indexing by providing information about the terms, and the terms around them.  We include terms relating to any subject discussed by Parliament, along with many procedural terms.  
