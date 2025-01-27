@@ -53,7 +53,8 @@ A website by the House of Commons Library providing election results data for th
 The 'Parliament: Facts and figures' series covers topics including elections, government, legislation, Members and parliamentary business.
 
 #### [Egg timer](https://api.parliament.uk/egg-timer/meta)
-For the calculation of scrutiny periods - that is, the period of time available to each House to approve or annul SIs and treaties before Parliament. 
+Certain papers laid before Parliament - such as statutory instruments and treaties - are subject to scrutiny periods. This is the period of time during which each House can approve or annul. The end date depends on the sittings of either House. The egg-timer provides a calculation of these periods. 
+
 
 We also work with the [History of Parliament Trust](https://www.historyofparliamentonline.org/) on [Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/)
 and on [Peerages](https://peerages.historyofparliamentonline.org/). 
