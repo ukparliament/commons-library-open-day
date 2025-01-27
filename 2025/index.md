@@ -38,7 +38,7 @@ Portcullis House, Westminster
 		
 ## MacMillan Room <br>exhibition and stands
 
-#### [Indexing and Data Management Section](idms)
+&rarr; #### [Indexing and Data Management Section](idms)
 
 #### Members Library Services and Research Services
 
