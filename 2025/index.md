@@ -1,53 +1,55 @@
-![House of Commons Library](/assets/images/hoclibrary.png)
-
-# Open Day 2025
+<h1>
+	<a href="https://ukparliament.github.io/commons-library-open-day/2025/">
+		Open Day 2025
+	</a>
+</h1>
 
 Wednesday 19th February
 Portcullis House, Westminster
 
-## Attlee Suite<br>9.45am to 11.00am
+In the Attlee Suite, from 9.45am to 11.00am &mdash;
 
-### Welcome and overview of the day
-**Claire Sewell** Head of Research Information Service<br>
-**Linda Coombs** Head of Members’ Library Services
+## Welcome and overview of the day
+&emsp;**Claire Sewell** Head of Research Information Service<br>
+&emsp;**Linda Coombs** Head of Members’ Library Services
 
-### Opening remarks
-**Grant Hill-Cawthorne** Managing Director of Research & Information
+## Opening remarks
+&emsp; **Grant Hill-Cawthorne** Managing Director of Research & Information
 
-### An introduction to the House of Commons Library
-**Martin Reid** Director of Library Services
+## An introduction to the House of Commons Library
+&emsp; **Martin Reid** Director of Library Services
 
-### The work of Research
-**Anna Dickson** Director of Research
+## The work of Research
+&emsp; **Anna Dickson** Director of Research
 
-### Misinformation and The Good Information Toolkit
-**Anne-Lise Harding** Strategic Training Lead
+## Misinformation and The Good Information Toolkit
+&emsp; **Anne-Lise Harding** Strategic Training Lead
 
 ---
 
-## Attlee Suite<br>11.20am to 12.30pm
+In the Attlee Suite, from 11.20am to 12.30pm &mdash;
 
 ### The induction of MPs
-**Hannah Roberts** Head of Customer Service and Engagement
+&emsp; **Hannah Roberts** Head of Customer Service and Engagement
 
 ### Single Subject View and Subject Specialist Finder
-**Susannah Foulis** Taxonomy Services Lead
+&emsp; **Susannah Foulis** Taxonomy Services Lead
 
 ### From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament
-**Adrian Brown** Director of Knowledge and Information, House of Lords
+&emsp; **Adrian Brown** Director of Knowledge and Information, House of Lords
 
 ---
 		
-## MacMillan Room <br>exhibition and stands
+In the MacMillan Room, exhibition and stands &mdash;
 
-#### &rarr; [Indexing and Data Management Section](idms)
+### &rarr; [Indexing and Data Management Section](idms)
 
-#### Members Library Services and Research Services
+### Members Library Services and Research Services
 
-#### Parliamentary Office of Science and Technology
+### Parliamentary Office of Science and Technology
 
-#### House of Lords Library
+### House of Lords Library
 
-#### Select Committee
+### Select Committee
 
 

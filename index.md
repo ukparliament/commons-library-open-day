@@ -1,3 +1,3 @@
-# Welcome to the House of Commons Library open day
+# An open day for librarians and information officers
 
-* [2025](2025)
+## [&rarr; 2025](2025)
