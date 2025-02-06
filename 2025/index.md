@@ -7,7 +7,7 @@
 Wednesday 19th February
 Portcullis House, Westminster
 
-In the Attlee Suite, from 9.45am to 11.00am &mdash;
+In the Attlee Suite, from 9.45am to 11.00am:
 
 ## Welcome and overview of the day
 &emsp;**Claire Sewell** Head of Research Information Service<br>
@@ -27,15 +27,15 @@ In the Attlee Suite, from 9.45am to 11.00am &mdash;
 
 ---
 
-In the Attlee Suite, from 11.20am to 12.30pm &mdash;
+In the Attlee Suite, from 11.20am to 12.30pm:
 
-### The induction of MPs
+## The induction of MPs
 &emsp; **Hannah Roberts** Head of Customer Service and Engagement
 
-### Single Subject View and Subject Specialist Finder
+## Single Subject View and Subject Specialist Finder
 &emsp; **Susannah Foulis** Taxonomy Services Lead
 
-### From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament
+## From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament
 &emsp; **Adrian Brown** Director of Knowledge and Information, House of Lords
 
 ---
