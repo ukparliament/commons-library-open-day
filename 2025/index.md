@@ -40,7 +40,7 @@ In the Attlee Suite, from 11.20am to 12.30pm:
 
 ---
 		
-In the MacMillan Room, exhibition and stands &mdash;
+In the MacMillan Room, exhibition and stands:
 
 ### &rarr; [Indexing and Data Management Section](idms)
 
