@@ -1,7 +1,5 @@
 <h1>
-	<a href="https://ukparliament.github.io/commons-library-open-day/2025/">
 		Open Day 2025
-	</a>
 </h1>
 
 Wednesday 19th February
