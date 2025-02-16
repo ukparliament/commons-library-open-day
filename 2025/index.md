@@ -48,7 +48,7 @@ In the MacMillan Room, exhibition and stands:
 
 ### Parliamentary Office of Science and Technology
 
-### House of Lords Library
+### &rarr; [House of Lords Library](hllibrary)
 
 ### Select Committee
 
