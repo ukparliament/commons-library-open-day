@@ -1,6 +1,6 @@
 <a href="../">&larr; Back to the Open Day 2025 programme</a>
 
-# Select Committees
+# Select committees
 
 ## What do we do?
 In the House of Commons, there is a select committee to scrutinise each government department. These are known as the departmental select committees. There are also cross-cutting select committees that look at policies across departments — for example, on the environment and sustainable development and past public spending. Select committees are cross-party groups of backbench MPs who work as a team to produce reports and other information. 
