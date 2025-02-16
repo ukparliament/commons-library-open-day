@@ -45,6 +45,8 @@ In the MacMillan Room, exhibition and stands:
 
 ### &rarr; [Indexing and Data Management Section](idms)
 
+### &rarr; [Library Resources Section](lrs)
+
 ### Members Library Services and Research Services
 
 ### &rarr; Parliamentary Office of Science and Technology(post)
