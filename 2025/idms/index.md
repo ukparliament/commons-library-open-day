@@ -32,13 +32,9 @@ We publish our **domain models** at [UK Parliament Ontologies](https://ukparliam
 
 We manage data for the following services &mdash;
 
-**[Search Parliamentary Material](https://search-material.parliament.uk/)**
-<br>
-A service in which people can search for parliamentary business and research briefings, from both Houses, indexed by IDMS, in one place. 
+**[Search Parliamentary Material](https://search-material.parliament.uk/)** - a service in which people can search for parliamentary business and research briefings, from both Houses, indexed by IDMS, in one place. 
 
-**[Parliamentary Search](https://parliamentary-search-265cced0397e.herokuapp.com/)**
-<br>
-Currently in development, a replacement for Search Parliamentary Material.
+**[Parliamentary Search](https://parliamentary-search-265cced0397e.herokuapp.com/)** -currently in development, a replacement for Search Parliamentary Material.
 
 **[UK Parliament thesaurus](https://lda.data.parliament.uk/terms/)**
 <br>
