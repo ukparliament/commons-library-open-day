@@ -7,11 +7,8 @@ The Library provides research, analysis and a range of print and online resource
 
 ## Find our work
 
-**[Research briefings](https://lordslibrary.parliament.uk/research/)
-Browse by topic, from Brexit and the EU to world affairs. We produce in-depth analysis on legislations, debates and topical issues.
+**[Research briefings](https://lordslibrary.parliament.uk/research/)** - browse by topic, from Brexit and the EU to world affairs. We produce in-depth analysis on legislations, debates and topical issues.
 
-**[Data dashboards](https://lordslibrary.parliament.uk/type/data-dashboard/)
-Explore interactive data visualisations about the House of Lords. Includes data on current membership and regional representation.
+**[Data dashboards](https://lordslibrary.parliament.uk/type/data-dashboard/)** - explore interactive data visualisations about the House of Lords. Includes data on current membership and regional representation.
 
-**[Hereditary peers in the House of Lords](https://lordslibrary.parliament.uk/hereditary-peers-in-the-house-of-lords/)
-Browse research and statistics on government proposals for hereditary peers, and follow the progress of the House of Lords (Hereditary Peers) Bill.
+**[Hereditary peers in the House of Lords](https://lordslibrary.parliament.uk/hereditary-peers-in-the-house-of-lords/)** - browse research and statistics on government proposals for hereditary peers, and follow the progress of the House of Lords (Hereditary Peers) Bill.
