@@ -7,7 +7,7 @@ The [Lords Library](https://lordslibrary.parliament.uk/) provides research, anal
 
 ## Find our work
 
-**[Research briefings](https://lordslibrary.parliament.uk/research/)** - browse by topic, from Brexit and the EU to world affairs. We produce in-depth analysis on legislations, debates and topical issues.
+**[Research briefings](https://lordslibrary.parliament.uk/research/)** - browse by topic, from 'Brexit and the EU' to 'World affairs'. We produce in-depth analysis on legislations, debates and topical issues.
 
 **[Data dashboards](https://lordslibrary.parliament.uk/type/data-dashboard/)** - explore interactive data visualisations about the House of Lords. Includes data on current membership and regional representation.
 
