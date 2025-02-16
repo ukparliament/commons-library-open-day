@@ -6,7 +6,7 @@ You can **read about our work** in our [weeknotes](https://ukparliament.github.i
 
 ## What do we do?  
 
-We **subject index parliamentary business** of the Commons and the Lords, supporting researchers and others to find what they need. We tie together information from disparate procedural systems. We make links in data that reflect how parliamentary business actually happened. 
+We **subject index parliamentary business** of the Commons and the Lords, supporting researchers and others to find what they need. We tie together information from disparate procedural systems. We make links in data that reflect how parliamentary business actually happens. 
 
 We maintain a **controlled vocabulary** to cover the business of both Houses. The vocabulary is emergent from parliamentary business. We consult with colleagues across Parliament, making best use of their subject matter expertise. 
 
