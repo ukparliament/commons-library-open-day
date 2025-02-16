@@ -41,14 +41,14 @@ In the Attlee Suite, from 11.20am to 12.30pm:
 		
 In the MacMillan Room, exhibition and stands:
 
+### &rarr; [House of Lords Library](hllibrary)
+
 ### &rarr; [Indexing and Data Management Section](idms)
 
 ### Members Library Services and Research Services
 
-### Parliamentary Office of Science and Technology
+### &rarr; Parliamentary Office of Science and Technology(post)
 
-### &rarr; [House of Lords Library](hllibrary)
-
-### Select Committee
+### Select Committees
 
 
