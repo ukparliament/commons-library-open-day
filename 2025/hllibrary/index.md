@@ -3,7 +3,7 @@
 # House of Lords Library
 
 ## What do we do?  
-The [Library](https://lordslibrary.parliament.uk/) provides research, analysis, and a range of print and online resources to support Members of the House of Lords and the work of the House.  Resource guides are available to help Members and staff use resources effectively, and the Library provides training and support.
+The [Lords Library](https://lordslibrary.parliament.uk/) provides research, analysis, and a range of print and online resources to support Members of the House of Lords and the work of the House.  Resource guides are available to help Members and staff use resources effectively, and the Library provides training and support.
 
 ## Find our work
 
