@@ -2,8 +2,7 @@
 		Open Day 2025
 </h1>
 
-Wednesday 19th February </br>
-Portcullis House, Westminster
+On Wednesday 19th February, at Portcullis House, Westminster
 
 ---
 
