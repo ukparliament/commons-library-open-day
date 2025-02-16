@@ -32,7 +32,7 @@ In the Attlee Suite, from 11.20am to 12.30pm:
 ## The induction of MPs
 &emsp; **Hannah Roberts** Head of Customer Service and Engagement
 
-## Single Subject View and Subject Specialist Finder
+## [Developing a Single Subject View for the House of Commons Library: the Subject Specialist Finder](https://docs.google.com/presentation/d/1fslRTkJYk6eCkgV8EkCS7b5j2R5BEgpWqlJqC-RQwwY/edit?usp=sharing) 
 &emsp; **Susannah Foulis** Taxonomy Services Lead
 
 ## From parchment to podcasts: collecting, safeguarding and providing ready access to the records of Parliament
