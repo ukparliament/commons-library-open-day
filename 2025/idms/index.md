@@ -6,23 +6,15 @@ You can **read about our work** in our [weeknotes](https://ukparliament.github.i
 
 ## What do we do?  
 
-We **subject index parliamentary business** of the Commons and the Lords, supporting researchers and others to find what they need.
+We **subject index parliamentary business** of the Commons and the Lords, supporting researchers and others to find what they need. We tie together information from disparate procedural systems. We make links in data that reflect how parliamentary business actually happened. 
 
 We maintain a **controlled vocabulary** to cover the business of both Houses. The vocabulary is emergent from parliamentary business. We consult with colleagues across Parliament, making best use of their procedural and subject matter expertise. 
 
-### Procedural data management 
-We have **domain expertise**. The team understands parliamentary procedure across both Houses. We adapt our information management as business practice and procedure changes. 
+We have **domain expertise**. The team understands parliamentary procedure across both Houses. We adapt our information management as business practice and procedure changes. We document parliamentary procedures. We work with internal and external domain experts and colleagues in the Digital Service to design data models that reflect the complexities of Parliament.
 
-### Data integration and data cleaning 
-We tie together information from disparate procedural systems. We make links in data that reflect how parliamentary business actually happened. 
-
-### Data modelling 
-We document parliamentary procedures. We work with internal and external domain experts and colleagues in the Digital Service to design data models that reflect the complexities of Parliament. 
-
-### Member data management
 We look after the **central database for Members of the House of Commons** - keeping it up to date with new starters and leavers, contact details, party affiliation changes, as well as changes to the machinery of government. 
 
-We collaborate with the History of Parliament Trust on a database covering the social background of MPs since 1832, and another covering peerages in the Kingdoms of England, Ireland, Great Britain and the United Kingdom from 1603 to the present day. 
+We collaborate with the [History of Parliament Trust](https://www.historyofparliamentonline.org/)  on [Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/) - covering the social background of MPs since 1832 - and another covering [Peerages](https://peerages.historyofparliamentonline.org/) in the Kingdoms of England, Ireland, Great Britain and the United Kingdom from 1603 to the present day. 
 
 ## Find our work
 
@@ -50,6 +42,5 @@ We manage data for the following services &mdash;
 
 **[Egg timer](https://api.parliament.uk/egg-timer/meta)** - certain papers laid before Parliament - such as statutory instruments and treaties - are subject to scrutiny periods. This is the period of time during which each House can approve or annul. The end date depends on the sittings of either House. The egg-timer provides a calculation of these periods. 
 
-We work with the [History of Parliament Trust](https://www.historyofparliamentonline.org/) on [Members of Parliament after 1832](https://membersafter1832.historyofparliamentonline.org/)
-and on [Peerages](https://peerages.historyofparliamentonline.org/). 
+
 
