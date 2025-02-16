@@ -11,5 +11,5 @@ In the House of Commons, there is a select committee to scrutinise each governme
 
 **[Inquiries](https://committees.parliament.uk/inquiries/?status=current)** - find inquiries and other committee work such as pre-appointment and non-inquiry hearings, and legislative scrutiny.
 
-**[Publications](https://committees.parliament.uk/publications/)** -  find the latest reports, special reports and government responses. 
+**[Publications](https://committees.parliament.uk/publications/)** - find the latest reports, special reports and government responses. 
 
