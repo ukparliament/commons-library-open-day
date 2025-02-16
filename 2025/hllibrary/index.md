@@ -12,3 +12,5 @@ The [Lords Library](https://lordslibrary.parliament.uk/) provides research, anal
 **[Data dashboards](https://lordslibrary.parliament.uk/type/data-dashboard/)** - explore interactive data visualisations about the House of Lords, including data on current membership, largest votes and government defeats, and regional representation.
 
 **[Hereditary peers in the House of Lords](https://lordslibrary.parliament.uk/hereditary-peers-in-the-house-of-lords/)** - browse research and statistics on government proposals for hereditary peers, and follow the progress of the House of Lords (Hereditary Peers) Bill.
+
+**[Subscribe](https://lordslibrary.parliament.uk/subscribe/)** - sign up to receive email alerts when we publish new briefings on topics that interest you.
