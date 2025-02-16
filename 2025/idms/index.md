@@ -26,7 +26,7 @@ We manage data for the following services &mdash;
 
 **[Parliamentary Search](https://parliamentary-search-265cced0397e.herokuapp.com/)** - currently in development, a replacement for Search Parliamentary Material.
 
-**[UK Parliament thesaurus](https://lda.data.parliament.uk/terms/)** - the thesaurus supports indexing by providing information about the terms, and the terms around them.  We include terms relating to any subject discussed by Parliament, along with many procedural terms.  
+**[UK Parliament thesaurus](https://lda.data.parliament.uk/terms.html)** - the thesaurus supports indexing by providing information about the terms, and the terms around them.  We include terms relating to any subject discussed by Parliament, along with many procedural terms.  
 
 **[Treaty tracker](https://treaties.parliament.uk/)** - treaties are international agreements between states. Find and follow the progress of treaties laid before Parliament.
 
