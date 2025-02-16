@@ -9,11 +9,11 @@ The Library also provides access to books and e-books, journal articles, legal m
 
 ## Find our work
 
-### Research briefings
+### [Research briefings](https://lordslibrary.parliament.uk/research/)
 Browse by topic, from Brexit and the EU to world affairs. We produce in-depth analysis on legislations, debates and topical issues.
 
-### Data dashboards
+### [Data dashboards](https://lordslibrary.parliament.uk/type/data-dashboard/)
 Explore interactive data visualisations about the House of Lords. Includes data on current membership and regional representation.
 
-### Hereditary peers in the House of Lords
+### [Hereditary peers in the House of Lords](https://lordslibrary.parliament.uk/hereditary-peers-in-the-house-of-lords/)
 Browse research and statistics on government proposals for hereditary peers, and follow the progress of the House of Lords (Hereditary Peers) Bill.
