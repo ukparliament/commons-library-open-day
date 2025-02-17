@@ -11,6 +11,6 @@ The [Parliamentary Office of Science and Technology (POST)](https://post.parliam
 
 **[Resources](https://post.parliament.uk/resources/)** - to help experts, students and parliamentarians understand how policy and research intersect, we have developed a series of comprehensive guides and FAQs.
 
-**[Horizon Scan 2024: Emerging policy issues for the next five years](https://post.parliament.uk/horizon-scan-2024/)** - horizon scanning is used to identify insights on emerging trends and changes. In early 2024, POST asked hundreds of experts from across the UK to identify future issues that parliament may need to address in the next five years.
+**[Horizon Scan 2024: Emerging policy issues for the next five years](https://post.parliament.uk/horizon-scan-2024/)** - in early 2024, POST asked hundreds of experts from across the UK to identify future issues that parliament may need to address in the next five years.
 
 **[Subscribe](https://post.parliament.uk/subscribe/)** - sign-up to get the latest news from POST delivered to your inbox, including new research, fellowship opportunities and upcoming events.
