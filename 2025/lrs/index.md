@@ -21,4 +21,4 @@ The team is also responsible for storing and recording the Library’s digital c
 
 ## Find our work
 
-**[Resources](https://commonslibrary.parliament.uk/resources/)** - from here you can get an idea of the scope of the services provided by LRS and discover how we make them available to our customers. The resources themselves are avialable only to users with a parliamentary login.
+**[Resources](https://commonslibrary.parliament.uk/resources/)** - from here you can get an idea of the scope of our services and discover how we make them available to our customers. The resources themselves are available only to users with a parliamentary login.
