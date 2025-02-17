@@ -49,7 +49,7 @@ In the MacMillan Room, exhibition and stands:
 
 ### Members Library Services and Research Services
 
-### &rarr; [Parliamentary Office of Science and Technology](post)
+### &rarr; [POST](post)
 
 ### &rarr; [Select committees](selcomms)
 
