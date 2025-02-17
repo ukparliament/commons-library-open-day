@@ -3,9 +3,7 @@
 # Library Resources Section
 
 ## What do we do?
-The Library Resources Section (LRS) is a busy and supportive team, in the Library Services directorate of R&I. We manage the House of Commons Library's online resources, important collection of books, pamphlets, Official Publications, serials, and newspapers, as well as the collection of hardcopy and digital parliamentary papers. The team is also responsible for the Library’s digitisation programme, the binding and conservation of library stock, and the Library catalogue and discovery platform.
-
-There are 3 smaller teams within LRS:
+The Library Resources Section (LRS) is a busy and supportive team. We manage the House of Commons Library's online resources, important collection of books, pamphlets, official publications, serials and newspapers, as well as the collection of hardcopy and digital parliamentary papers. The team is also responsible for the Library’s digitisation programme, for the binding and conservation of library stock, and for the Library catalogue and discovery platform. We divide this work between three teams:
 
 **Acquisitions and Online** - manages and provides access to a range of information resources, including press aggregators, legal databases and biographical resources to subject specific databases.  The team arranges trials, purchases resources, manages and promotes those resources and ensure our users can find them using tools we make available. They also ensure that all procurement and financial rules are followed.  
 
