@@ -47,8 +47,6 @@ In the MacMillan Room, exhibition and stands:
 
 ### &rarr; [Library Resources Section](lrs)
 
-### Members Library Services and Research Services
-
 ### &rarr; [POST](post)
 
 ### &rarr; [Select committees](selcomms)
