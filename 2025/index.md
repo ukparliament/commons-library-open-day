@@ -18,7 +18,7 @@ In the Attlee Suite, from 9.45am to 11.00am:
 ## [An introduction to the House of Commons Library](https://docs.google.com/presentation/d/1w2G0Ye615r7kPj0xWynjiQKbd1AAOGLjHyvRyl88s4Y/edit?usp=sharing)
 &emsp; **Martin Reid** Director of Library Services
 
-## The work of Research
+## [The work of Research](https://docs.google.com/presentation/d/15t5pB43IbEpph6_HnQFo8Crhc1um3zt98R-yy35MM-I/edit?usp=sharing)
 &emsp; **Anna Dickson** Director of Research
 
 ## [Information literacy and democracy](https://docs.google.com/presentation/d/19632PeFtMdTKs9s1VPJnzGBsdFq3zOI8QGOrtECZoaU/edit?usp=sharing)
