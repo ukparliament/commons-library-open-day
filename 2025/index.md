@@ -31,7 +31,7 @@ In the Attlee Suite, from 11.20am to 12.30pm:
 ## [Engaging with new MPs and their staff](https://docs.google.com/presentation/d/14UrYzWuW3ffyeuble3EH05lik3eC31pXnSZKc8WIC30/edit?usp=sharing)
 &emsp; **Hannah Roberts** Head of Customer Service and Engagement
 
-## [Developing a Single Subject View for the House of Commons Library: the Subject Specialist Finder](https://docs.google.com/presentation/d/1fslRTkJYk6eCkgV8EkCS7b5j2R5BEgpWqlJqC-RQwwY/edit?usp=sharing) 
+## [Developing a Single Subject View for the House of Commons Library: the Subject Specialist Finder](https://docs.google.com/presentation/d/1SF2UM6mmOeWUKAsbhsFbnFCmSSbux9sNjhnWUHioIFg/edit?usp=sharing)
 &emsp; **Susannah Foulis** Taxonomy Services Lead
 
 ## [From parchment to podcasts: telling the story of Parliament through its records](https://docs.google.com/presentation/d/1HtPAsM4qwo2_5Rg_Vqhkx5mmcVjMsgL2Hev1COX__XY/edit?usp=sharing)
