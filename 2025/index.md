@@ -21,7 +21,7 @@ In the Attlee Suite, from 9.45am to 11.00am:
 ## [The work of Research](https://docs.google.com/presentation/d/1fnTe4fv_vMwy1t5Hdw3VjYJa8Z3wGwuVR1_shDvPhiM/edit?usp=sharing)
 &emsp; **Anna Dickson** Director of Research
 
-## [Information literacy and democracy](https://docs.google.com/presentation/d/19632PeFtMdTKs9s1VPJnzGBsdFq3zOI8QGOrtECZoaU/edit?usp=sharing)
+## [Information literacy and democracy](https://docs.google.com/presentation/d/1CQbWhYFEPhWJwwEwUQ7qZf1nRUXTbM6NW0QftDmgsrM/edit?usp=sharing)
 &emsp; **Anne-Lise Harding** Strategic Training Lead
 
 ---
