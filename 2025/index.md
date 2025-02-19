@@ -34,7 +34,7 @@ In the Attlee Suite, from 11.20am to 12.30pm:
 ## [Developing a single subject view for the House of Commons Library: the Subject Specialist Finder](https://docs.google.com/presentation/d/1BblFwokh2ZpUsqhNIGHqhkT0TdQ0PYMWFf3pa2AJmMg/edit#slide=id.p1)
 &emsp; **Susannah Foulis** Taxonomy Services Lead
 
-## [From parchment to podcasts: telling the story of Parliament through its records](https://docs.google.com/presentation/d/1HtPAsM4qwo2_5Rg_Vqhkx5mmcVjMsgL2Hev1COX__XY/edit?usp=sharing)
+## [From parchment to podcasts: telling the story of Parliament through its records](https://docs.google.com/presentation/d/1f_L63-M2aEiql2zLDrV9ubdCbchB8tnvQD_EpKeq0E8/edit?usp=sharing)
 &emsp; **Adrian Brown** Director of Knowledge and Information, House of Lords
 
 ---
