@@ -40,7 +40,7 @@ We manage data for the following services &mdash;
 
 **[Parliament: Facts and figures](https://commonslibrary.parliament.uk/tag/parliament-facts-and-figures/)** - the 'Parliament: Facts and figures' series covers topics including elections, government, legislation, Members and parliamentary business.
 
-**[Egg timer](https://api.parliament.uk/egg-timer/meta)** - certain papers laid before Parliament - such as statutory instruments and treaties - are subject to scrutiny periods. This is the period of time during which each House can approve or annul. The end date depends on the sittings of either House. The egg-timer provides a calculation of these periods. 
+**[Parliamentary Time](https://api.parliament.uk/egg-timer)** - a resource for parliamentary time, including data for parliamnetary time periods (sessions, prorogations, parlaiments and dissolutions). There's an interval calculator, so you can calculate the number of sitting days between two dates. And a scrutiny end date calculator. Which is a bit more complicated: certain papers laid before Parliament - such as statutory instruments and treaties - are subject to scrutiny periods. This is the period of time during which each House can approve or annul. The end date depends on the sittings of either House. The calculator provides a calculation of these periods. 
 
 
 
