@@ -1,8 +1,8 @@
 <h1>
-		Harry's Open Day 2026
+		Harry's Commons Library Open Day 2026: Informing Democracy
 </h1>
 
-On Wednesday 19th February, at Portcullis House in Westminster.
+On Wednesday 18th February, at Portcullis House in Westminster, 9am - 5pm
 
 ---
 
@@ -48,7 +48,4 @@ In the MacMillan Room, exhibition and stands:
 ### &rarr; [Library Resources Section](lrs)
 
 ### &rarr; [POST](post)
-
-### &rarr; [Select committees](selcomms)
-
 
