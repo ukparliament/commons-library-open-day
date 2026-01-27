@@ -6,7 +6,7 @@ On Wednesday 18th February, at Portcullis House in Westminster, 9am - 5pm
 
 ---
 
-In the Attlee Suite, from 9.45am to 11.00am:
+In TBC, from 9.30am to 10.45am:
 
 ## Welcome and overview of the day
 &emsp;**Claire Sewell** Head of Research Information Service<br>
@@ -21,25 +21,31 @@ In the Attlee Suite, from 9.45am to 11.00am:
 ## [The work of Research](https://docs.google.com/presentation/d/1fnTe4fv_vMwy1t5Hdw3VjYJa8Z3wGwuVR1_shDvPhiM/edit?usp=sharing)
 &emsp; **Anna Dickson** Director of Research
 
-## [Information literacy and democracy](https://docs.google.com/presentation/d/1CQbWhYFEPhWJwwEwUQ7qZf1nRUXTbM6NW0QftDmgsrM/edit?usp=sharing)
-&emsp; **Anne-Lise Harding** Strategic Training Lead
+## [Q&A](https://docs.google.com/presentation/d/1CQbWhYFEPhWJwwEwUQ7qZf1nRUXTbM6NW0QftDmgsrM/edit?usp=sharing)
+&emsp; **TBC**
 
 ---
 
-In the Attlee Suite, from 11.20am to 12.30pm:
+In TBC , from 11.05am to 12.15pm:
 
-## [Engaging with new MPs and their staff](https://docs.google.com/presentation/d/1KR7ZM6au14VpspzJIzJnb7XN9W24PJ6IO_1Ss_Jdhvs/edit?usp=sharing)
-&emsp; **Hannah Roberts** Head of Customer Service and Engagement
+## [Parliamentary knowledge and information](https://docs.google.com/presentation/d/1KR7ZM6au14VpspzJIzJnb7XN9W24PJ6IO_1Ss_Jdhvs/edit?usp=sharing)
+&emsp; **TBC**
 
-## [Developing a single subject view for the House of Commons Library: the Subject Specialist Finder](https://docs.google.com/presentation/d/1-K8RlPZCcr8_Wv8C6BDHlU-Y7S48ut0KdNJ5M6TDqYQ/edit?usp=sharing)
-&emsp; **Susannah Foulis** Taxonomy Services Lead
-
-## [From parchment to podcasts: telling the story of Parliament through its records](https://docs.google.com/presentation/d/1f_L63-M2aEiql2zLDrV9ubdCbchB8tnvQD_EpKeq0E8/edit?usp=sharing)
-&emsp; **Adrian Brown** Director of Knowledge and Information, House of Lords
+## [Dealing with misinformation](https://docs.google.com/presentation/d/1-K8RlPZCcr8_Wv8C6BDHlU-Y7S48ut0KdNJ5M6TDqYQ/edit?usp=sharing)
+&emsp; **TBC**
 
 ---
-		
-In the MacMillan Room, exhibition and stands:
+
+In TBC , from 11.05am to 12.15pm:
+
+## [Parliamentary knowledge and information](https://docs.google.com/presentation/d/1KR7ZM6au14VpspzJIzJnb7XN9W24PJ6IO_1Ss_Jdhvs/edit?usp=sharing)
+&emsp; **TBC**
+
+## [Dealing with misinformation](https://docs.google.com/presentation/d/1-K8RlPZCcr8_Wv8C6BDHlU-Y7S48ut0KdNJ5M6TDqYQ/edit?usp=sharing)
+&emsp; **TBC**
+
+---		
+In the TBC Room, exhibition and stands:
 
 ### &rarr; [House of Lords Library](hllibrary)
 
