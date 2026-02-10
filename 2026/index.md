@@ -24,8 +24,8 @@ In TBC , from 11.05am to 12.15pm:
 ## [Introducing Parliamentary knowledge and information](https://docs.google.com/presentation/d/1qIL_SuIJMAqZ8Rcy37xpVB2rfoxy6Yzj0JSSSWVgjRQ/edit?usp=sharing)
 &emsp; **Adrian Brown** Director of Knowledge & Information and Head of Profession for Information
 
-## [Dealing with misinformation](https://docs.google.com/presentation/d/1-K8RlPZCcr8_Wv8C6BDHlU-Y7S48ut0KdNJ5M6TDqYQ/edit?usp=sharing)
-&emsp; **Anne** 
+## [Dealing with misinformation in Parliament](https://docs.google.com/presentation/d/1ACLREnzN710L3hjlakwjI8BGN_w51l5j2EkYspPnqIM/edit?usp=sharing)
+&emsp; **Anne-Lise Harding** Strategic Training Lead
 
 ---		
 In the TBC Room, exhibition and stands:
