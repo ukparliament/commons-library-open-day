@@ -8,14 +8,10 @@ On Wednesday 18th February, at Portcullis House in Westminster, 9am - 5pm
 
 In TBC, from 9.30am to 10.45am:
 
-## Welcome and overview of the day
-&emsp;**Claire Sewell** Head of Research Information Service<br>
-&emsp;**Linda Coombs** Head of Members’ Library Services
-
 ## Opening remarks
 &emsp; **Grant Hill-Cawthorne** Managing Director of Research & Information
 
-## [An introduction to the House of Commons Library](https://docs.google.com/presentation/d/14siW-xpKTgNtK2lUbviLOcTlRe4iwDQyKJzs_QBTF2g/edit?usp=sharing)
+## [An introduction to the House of Commons Library](https://docs.google.com/presentation/d/1Sx3ZZBNWSRwkuvDksC6MotMxtQ7vDf2y/edit?usp=sharing&ouid=115284708173621312546&rtpof=true&sd=true)
 &emsp; **Martin Reid** Director of Library Services
 
 ## [The work of Research](https://docs.google.com/presentation/d/1fnTe4fv_vMwy1t5Hdw3VjYJa8Z3wGwuVR1_shDvPhiM/edit?usp=sharing)
