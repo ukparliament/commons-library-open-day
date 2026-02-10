@@ -11,7 +11,7 @@ In TBC, from 9.30am to 10.45am:
 ## Opening remarks
 &emsp; **Grant Hill-Cawthorne** Managing Director of Research & Information
 
-## [An introduction to the House of Commons Library](https://docs.google.com/presentation/d/1Sx3ZZBNWSRwkuvDksC6MotMxtQ7vDf2y/edit?usp=sharing&ouid=115284708173621312546&rtpof=true&sd=true)
+## [An introduction to the House of Commons Library](https://docs.google.com/presentation/d/1js66O_prMrYm1Qy3UDibgvbsJyOsS0afWKDJ6nTW0_Q/edit?usp=sharing)
 &emsp; **Martin Reid** Director of Library Services
 
 ## [The work of Research](https://docs.google.com/presentation/d/1fnTe4fv_vMwy1t5Hdw3VjYJa8Z3wGwuVR1_shDvPhiM/edit?usp=sharing)
