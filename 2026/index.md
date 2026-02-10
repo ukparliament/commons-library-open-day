@@ -14,7 +14,7 @@ In TBC, from 9.30am to 10.45am:
 ## [An introduction to the House of Commons Library](https://docs.google.com/presentation/d/1js66O_prMrYm1Qy3UDibgvbsJyOsS0afWKDJ6nTW0_Q/edit?usp=sharing)
 &emsp; **Martin Reid** Director of Library Services
 
-## [The work of Research](https://docs.google.com/presentation/d/1fnTe4fv_vMwy1t5Hdw3VjYJa8Z3wGwuVR1_shDvPhiM/edit?usp=sharing)
+## [The work of Research](https://docs.google.com/presentation/d/16ECjtvKZ-mnjtRuWjYExGEXO9C3KVZDNtE8mo4hw8vY/edit?usp=sharing)
 &emsp; **Anna Dickson** Director of Research
 
 ---
