@@ -46,6 +46,6 @@ Hear about current projects from representatives from across the Commons Library
 ## [Parliamentary Time](https://docs.google.com/presentation/d/14w1LiqmYitvnlvWtA-KpK4pgjGC6X9AQXld7NataKHM/edit?usp=sharing)
 &emsp; **Jayne Bosworth** Indexing and Data Management Section
 
-## [Dealing with misinformation in Parliament](https://docs.google.com/presentation/d/1ACLREnzN710L3hjlakwjI8BGN_w51l5j2EkYspPnqIM/edit?usp=sharing)
-&emsp; **Anne-Lise Harding** Strategic Training Lead
+## [Reflecting UK Society in the House of Commons Library collection](https://docs.google.com/presentation/d/1_l0Flo0VnoWiU2iH90nLoTK2eDsUQE5DSD0P-XQa2bk/edit?usp=sharing)
+&emsp; **Caroline Marwein** Library Resources Section
 
