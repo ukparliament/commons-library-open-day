@@ -3,11 +3,11 @@
 # House of Lords Library
 
 ## What do we do?  
-The [Lords Library](https://lordslibrary.parliament.uk/) provides research, analysis, and a range of print and online resources to support Members of the House of Lords and the work of the House.  Resource guides are available to help Members and staff use resources effectively, and the Library provides training and support.
+The [Lords Library](https://lordslibrary.parliament.uk/) provides information, research, analysis, and a range of print collections and online resources to support Members of the House of Lords and the work of the House. Digital and print guides are available to help Members and staff use resources effectively, and the Library provides training and support.
 
 ## Find our work
 
-**[Research briefings](https://lordslibrary.parliament.uk/research/)** - browse by topic, from 'Brexit and the EU' to 'World affairs'. We produce in-depth analysis on legislation, debates and topical issues.
+**[Research briefings](https://lordslibrary.parliament.uk/research/)** - browse by topic, from 'Brexit and the EU' to 'World affairs'. We produce in-depth analysis on legislation, debates and topical issues [e.g. Artificial Intelligence](https://lordslibrary.parliament.uk/superintelligent-ai-should-its-development-be-stopped/)
 
 **[Data dashboards](https://lordslibrary.parliament.uk/type/data-dashboard/)** - explore interactive data visualisations about the House of Lords, including data on current membership, largest votes and government defeats, and regional representation.
 
