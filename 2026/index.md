@@ -36,7 +36,7 @@ In the TBC Room, exhibition and stands:
 
 ### &rarr; [Library Resources Section](lrs)
 
-### &rarr; [POST](post)
+### &rarr; [Parliamentary Office of Science and Technology](post)
 
 ---		
 In the TBC Room, from 4:00pm to 4:45pm Panel Discussion and Q&A:
