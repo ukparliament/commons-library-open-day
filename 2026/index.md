@@ -44,8 +44,12 @@ In the TBC Room, from 4:00pm to 4:45pm Panel Discussion and Q&A:
 Hear about current projects from representatives from across the Commons Library 
 
 ## [Parliamentary Time](https://docs.google.com/presentation/d/14w1LiqmYitvnlvWtA-KpK4pgjGC6X9AQXld7NataKHM/edit?usp=sharing)
-&emsp; **Jayne Bosworth** Indexing and Data Management Section
+&emsp; **Jayne Bosworth** Procedure Data Lead, Indexing and Data Management Section
 
 ## [Reflecting UK Society in the House of Commons Library collection](https://docs.google.com/presentation/d/1_l0Flo0VnoWiU2iH90nLoTK2eDsUQE5DSD0P-XQa2bk/edit?usp=sharing)
-&emsp; **Caroline Marwein** Library Resources Section
+&emsp; **Caroline Marwein** Systems Librarian, Library Resources Section
+
+## [Parliamentary Office of Science and Technology services](https://docs.google.com/presentation/d/1_l0Flo0VnoWiU2iH90nLoTK2eDsUQE5DSD0P-XQa2bk/edit?usp=sharing)
+&emsp; **Ed Newton** Senior Liaison Librarian, Parliamentary Office of Science & Technology
+
 
