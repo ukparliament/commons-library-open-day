@@ -6,10 +6,7 @@ On Wednesday 18th February, at Portcullis House in Westminster, 9am - 5pm
 
 ---
 
-In TBC, from 9.30am to 10.45am:
-
-## Opening remarks
-&emsp; **Grant Hill-Cawthorne** Managing Director of Research & Information
+From 9.30am to 10.45am:
 
 ## [Introduction to the House of Commons Library](https://docs.google.com/presentation/d/1js66O_prMrYm1Qy3UDibgvbsJyOsS0afWKDJ6nTW0_Q/edit?usp=sharing)
 &emsp; **Martin Reid** Director of Library Services
@@ -19,7 +16,7 @@ In TBC, from 9.30am to 10.45am:
 
 ---
 
-In TBC , from 11.05am to 12.15pm:
+From 11.05am to 12.15pm:
 
 ## [Introducing Parliamentary knowledge and information](https://docs.google.com/presentation/d/1qIL_SuIJMAqZ8Rcy37xpVB2rfoxy6Yzj0JSSSWVgjRQ/edit?usp=sharing)
 &emsp; **Adrian Brown** Director of Knowledge & Information and Head of Profession for Information
@@ -28,7 +25,7 @@ In TBC , from 11.05am to 12.15pm:
 &emsp; **Anne-Lise Harding** Strategic Training Lead
 
 ---		
-In the TBC Room, exhibition and stands:
+Exhibition and stands:
 
 ### &rarr; [House of Lords Library](hllibrary)
 
@@ -39,7 +36,7 @@ In the TBC Room, exhibition and stands:
 ### &rarr; [Parliamentary Office of Science and Technology](post)
 
 ---		
-In the TBC Room, from 4:00pm to 4:45pm Panel Discussion and Q&A:
+From 4:00pm to 4:45pm Panel Discussion and Q&A:
 
 Hear about current projects from representatives from across the Commons Library 
 
@@ -49,7 +46,7 @@ Hear about current projects from representatives from across the Commons Library
 ## [Reflecting UK Society in the House of Commons Library collection](https://docs.google.com/presentation/d/1_l0Flo0VnoWiU2iH90nLoTK2eDsUQE5DSD0P-XQa2bk/edit?usp=sharing)
 &emsp; **Caroline Marwein** Systems Librarian, Library Resources Section
 
-## [Parliamentary Office of Science and Technology services](https://docs.google.com/presentation/d/1_l0Flo0VnoWiU2iH90nLoTK2eDsUQE5DSD0P-XQa2bk/edit?usp=sharing)
+## [Parliamentary Office of Science and Technology services](https://docs.google.com/presentation/d/1q2AS-3QCpBYl7eEwVMVoesClwECdCfYmf_QW0GgyMc0/edit?usp=sharing)
 &emsp; **Ed Newton** Senior Liaison Librarian, Parliamentary Office of Science & Technology
 
 
