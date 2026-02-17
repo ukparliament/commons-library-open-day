@@ -36,9 +36,9 @@ Exhibition and stands:
 ### &rarr; [Parliamentary Office of Science and Technology](post)
 
 ---		
-From 4:00pm to 4:45pm Panel Discussion and Q&A:
+From 4:00pm to 4:45pm:
 
-Hear about current projects from representatives from across the Commons Library 
+Panel Discussion and Q&A: Hear about current projects from representatives from across the Commons Library 
 
 ## [Parliamentary Time](https://docs.google.com/presentation/d/14w1LiqmYitvnlvWtA-KpK4pgjGC6X9AQXld7NataKHM/edit?usp=sharing)
 &emsp; **Jayne Bosworth** Procedure Data Lead, Indexing and Data Management Section
